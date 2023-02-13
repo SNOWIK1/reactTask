@@ -1,0 +1,40 @@
+.App {
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+    opacity: 0.85;
+    font-size: medium;
+}
+
+.main {
+    font-size:40px
+}
+
+h1 {
+    font-size: 18px;
+    color: #000
+}
+
+body {
+    background-color: rgb(134, 146, 158);
+}
+
+.App input {
+    border: none;
+    border-radius: 6px;
+    background-color:rgb(203, 203, 203);
+}
+
+.App button {
+    border-radius: 10px;
+    border: none;
+    background-color: darkslategray;
+    font-weight: 700;
+    font-size:small;
+    padding: 7px;
+    text-align: center;
+}
